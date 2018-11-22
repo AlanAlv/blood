@@ -28,7 +28,6 @@
                                               <router-link to="/registro"> Registro</router-link>
                                               <router-link to="/requisitos"> Requisitos</router-link>
                                               <router-link to="/porque"> ¿Por qué?</router-link>
-                                              <a href="/map"> Map </a>
                                             </ul>
                                         </div>
                                     </div>

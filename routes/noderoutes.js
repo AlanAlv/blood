@@ -10,7 +10,7 @@ module.exports = function(app){
     })
 */
 
-    app.get('/map', function(req,res){
+    app.get('/map.html', function(req,res){
         res.sendfile(__dirname + '/map.html');
     }); 
 
